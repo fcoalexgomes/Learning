@@ -1,2 +1,2 @@
 # Learning
-Repositório de cursos e projetos de TI
+Cursos e Projetos de TI
